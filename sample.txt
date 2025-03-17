@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 saru先生のgit入門
-=======
-saru先生のGit入門
->>>>>>> 794d4f55f682ee2399aa756f0cdc3da379d46181
